@@ -34,12 +34,6 @@
 - **.NET 6** 以上
 - **依存ライブラリ**
   - **SharpGLTF**（GLBファイル処理用）
-    ```bash
-    dotnet add package SharpGLTF
-    ```
   - **LASSharp**（LASファイル処理用）
-    ```bash
-    dotnet add package LASSharp
-    ```
 
 ---
